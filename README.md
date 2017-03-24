@@ -2,4 +2,4 @@
 
 How to build your tensorboard graph visualisation.
 
-![alt tag](https://raw.githubusercontent.com/hardik2396/Tensorboard/graph.png)
+![alt tag](https://github.com/hardik2396/Tensorboard/blob/master/graph.png)
