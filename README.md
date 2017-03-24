@@ -2,4 +2,4 @@
 
 How to build your tensorboard graph visualisation.
 
-![picture](Tensorboard/graph-run= (3).png)
+![Alt text]("Tensorboard/graph-run= (3).png?raw=true "RNN")
