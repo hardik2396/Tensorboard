@@ -2,4 +2,4 @@
 
 How to build your tensorboard graph visualisation.
 
-![Alt text]("graph-run= (3).png")
+![alt tag](https://raw.githubusercontent.com/hardik2396/Tensorboard/graph.png)
